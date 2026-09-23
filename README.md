@@ -126,6 +126,11 @@ print("your birth year is approximately", birth_year, "(based on your age)")
 ```
 
 Also, because the calculation only uses age and the current year, the result is approximate. It may be off by one year depending on whether the user's birthday has already occurred this year.
+## ▶ Demo Video
+
+<a href="https://drive.google.com/file/d/1ogIDxT9bu8L0n8FEDw-YNlRJU3x7zfGH/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/▶-Watch%20Demo%20Video-181717?style=for-the-badge&logo=github&logoColor=white" alt="Watch Demo Video" />
+</a>
 
 ## 🎯 Learning Concepts
 
